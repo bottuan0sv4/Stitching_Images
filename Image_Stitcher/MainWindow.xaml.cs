@@ -582,21 +582,21 @@ namespace Image_Stitcher
                 }
             );
 
-            // Cập nhật min, max cho trục Y
+            // Update min, max Y
             MaxAxisValue = int_values.Max();
             MinAxisValue = 0;
 
-            // Cập nhật dữ liệu cho trục X
+            // Update X
             Labels = Enumerable.Range(min_h, max_h - min_h + 1).Select(i => i.ToString()).ToArray();
 
-            // Cập nhật biểu đồ
+            // Update
             Formatter = value => value.ToString("N");
             DataContext = this;
         }
 
         private void OnValueChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
         {
-            // Kiểm tra xem img_path đã được gán chưa
+            
             if (string.IsNullOrEmpty(img_path))
             {
                 return; // Chưa có hình ảnh để xử lý
@@ -610,7 +610,7 @@ namespace Image_Stitcher
             ApplyHistogramToImage(img_path);
 
             // Update the histogram chart
-            UpdateHistogram(ComputeImageHistogram(img_path)); // Tính toán lại histogram từ hình ảnh mới
+            UpdateHistogram(ComputeImageHistogram(img_path)); // histogram in new image
         }
 
 
