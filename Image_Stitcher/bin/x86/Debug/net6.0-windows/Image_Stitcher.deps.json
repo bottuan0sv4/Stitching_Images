@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Image_Stitcher/1.0.0": {
+        "runtime": {
+          "Image_Stitcher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Image_Stitcher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,215 @@
+D:\Placeholder\Image-Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.exe
+D:\Placeholder\Image-Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.deps.json
+D:\Placeholder\Image-Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.runtimeconfig.json
+D:\Placeholder\Image-Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.dll
+D:\Placeholder\Image-Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.pdb
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.AssemblyReference.cache
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.ResolveComReference.cache
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\App.g.cs
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher_MarkupCompile.cache
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher_MarkupCompile.lref
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.g.resources
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.AssemblyInfoInputs.cache
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.AssemblyInfo.cs
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.CoreCompileInputs.cache
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.dll
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\refint\Image_Stitcher.dll
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.pdb
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.genruntimeconfig.cache
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\ref\Image_Stitcher.dll
+D:\Placeholder\Image-Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Emgu.CV.Platform.NetFramework.dll
+D:\Placeholder\Image-Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Emgu.CV.Platform.NetFramework.xml
+D:\Placeholder\Image-Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.CopyComplete
+D:\Placeholder\Image-Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.exe
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.deps.json
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.runtimeconfig.json
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.pdb
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Emgu.CV.Platform.NetFramework.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Emgu.CV.Platform.NetFramework.xml
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.AssemblyReference.cache
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.ResolveComReference.cache
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\App.g.cs
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher_MarkupCompile.cache
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher_MarkupCompile.lref
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.g.resources
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.AssemblyInfoInputs.cache
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.AssemblyInfo.cs
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.CoreCompileInputs.cache
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.CopyComplete
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\refint\Image_Stitcher.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.pdb
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.genruntimeconfig.cache
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\ref\Image_Stitcher.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Placeholder\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.exe
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.deps.json
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.runtimeconfig.json
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.pdb
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.AssemblyReference.cache
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.ResolveComReference.cache
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\App.g.cs
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher_MarkupCompile.cache
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher_MarkupCompile.lref
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.g.resources
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.AssemblyInfoInputs.cache
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.AssemblyInfo.cs
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.CoreCompileInputs.cache
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.CopyComplete
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\refint\Image_Stitcher.dll
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.pdb
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.genruntimeconfig.cache
+D:\Working Space\Visual Studio\Image_Stitcher\Image_Stitcher\obj\Debug\net6.0-windows\ref\Image_Stitcher.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.AssemblyReference.cache
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.ResolveComReference.cache
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\App.g.cs
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher_MarkupCompile.cache
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher_MarkupCompile.lref
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\refint\Image_Stitcher.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.pdb
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.exe
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.deps.json
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.runtimeconfig.json
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.pdb
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\Emgu.CV.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.g.resources
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.AssemblyInfoInputs.cache
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.AssemblyInfo.cs
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.CoreCompileInputs.cache
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.CopyComplete
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.genruntimeconfig.cache
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\obj\Debug\net6.0-windows\ref\Image_Stitcher.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2)\Image_Stitcher\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.exe
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.deps.json
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.runtimeconfig.json
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\Image_Stitcher.pdb
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\Emgu.CV.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.AssemblyReference.cache
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\App.g.cs
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher_MarkupCompile.cache
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher_MarkupCompile.lref
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.g.resources
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.AssemblyInfoInputs.cache
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.AssemblyInfo.cs
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.CoreCompileInputs.cache
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.csproj.CopyComplete
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\refint\Image_Stitcher.dll
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.pdb
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\Image_Stitcher.genruntimeconfig.cache
+D:\Working Space\Visual Studio\Image_Stitcher - Copy (2) - Copy\Image_Stitcher\obj\Debug\net6.0-windows\ref\Image_Stitcher.dll
