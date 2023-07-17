@@ -1678,11 +1678,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Working Space\\Visual Studio\\Stitching_Images\\Image_Stitcher\\Image_Stitcher.csproj",
+      "projectUniqueName": "D:\\Working Space\\Visual Studio\\WholeBoard_Project_DuongAnhTuan\\Stitching_Images\\Image_Stitcher\\Image_Stitcher.csproj",
       "projectName": "Image_Stitcher",
-      "projectPath": "D:\\Working Space\\Visual Studio\\Stitching_Images\\Image_Stitcher\\Image_Stitcher.csproj",
+      "projectPath": "D:\\Working Space\\Visual Studio\\WholeBoard_Project_DuongAnhTuan\\Stitching_Images\\Image_Stitcher\\Image_Stitcher.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Working Space\\Visual Studio\\Stitching_Images\\Image_Stitcher\\obj\\",
+      "outputPath": "D:\\Working Space\\Visual Studio\\WholeBoard_Project_DuongAnhTuan\\Stitching_Images\\Image_Stitcher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

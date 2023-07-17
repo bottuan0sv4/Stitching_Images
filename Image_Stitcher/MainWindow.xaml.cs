@@ -22,6 +22,7 @@ using System.Runtime.InteropServices;
 using System.Drawing.Imaging;
 using Emgu.CV.Features2D;
 using System.Collections.Generic;
+using MessageBox = System.Windows.Forms.MessageBox;
 
 namespace Image_Stitcher
 {
@@ -166,41 +167,6 @@ namespace Image_Stitcher
 
         }
 
-        private void run_cmd(string cmd, string args)
-        {
-            // Run python script get_image_type.py to return type of image
-            ProcessStartInfo start = new ProcessStartInfo();
-            start.FileName = cmd;
-            start.Arguments = args;
-
-            // Don't show cmd
-            start.UseShellExecute = false;
-            start.CreateNoWindow = true;
-
-            start.RedirectStandardOutput = true;
-            using (Process process = Process.Start(start))
-            {
-                //process.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
-                using (StreamReader reader = process.StandardOutput)
-                {
-                    string result = reader.ReadLine();
-                    if (result == "3")
-                    {
-                        // If image has 3 channel
-                        txt_info.AppendText("The images is in color format (RGB).");
-                        txt_info.AppendText(Environment.NewLine);
-                    }
-                    else
-                    {
-                        // If image has 1 channel
-                        txt_info.AppendText("The images is in gray scale format.");
-                        txt_info.AppendText(Environment.NewLine);
-                    }
-                }
-            }
-        }
-
-
         private void btn_load_Click(object sender, RoutedEventArgs e)
         {
             // Open Explorer to choose folder
@@ -210,7 +176,7 @@ namespace Image_Stitcher
             if (string.IsNullOrEmpty(txt_path.Text))
             {
                 // If there is no path in Path Textbox
-                System.Windows.MessageBox.Show("No path has been selected.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show("No path has been selected.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
@@ -224,27 +190,23 @@ namespace Image_Stitcher
                 var files = Directory.EnumerateFiles(txt_path.Text, "*.*", SearchOption.TopDirectoryOnly).Where(s => s.EndsWith(".png") || s.EndsWith(".jpg") || s.EndsWith(".tiff") || s.EndsWith(".jpeg"));
                 string[] images = (from string c in files select c.ToString()).ToArray();
 
-
                 if (images.Length == 0)
                 {
                     // If there is no image in chosen folder
-                    System.Windows.MessageBox.Show("There is no images in the chosen folder.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                    MessageBox.Show("There are no images in the chosen folder.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
-
                 else if (images.Length == 1)
                 {
                     // If there is only one image in chosen folder
-                    System.Windows.MessageBox.Show("There is only one image in the chosen folder.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                    MessageBox.Show("There is only one image in the chosen folder.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
-
                 else
                 {
-                    // If there is image in chosen folder
+                    // If there are images in chosen folder
                     // Load the images to ListView
                     int j = 1;
                     foreach (string img in images)
                     {
-
                         list_image.Items.Add(new input_image() { ID = j.ToString(), Path = img.ToString() });
                         j++;
                     }
@@ -254,14 +216,42 @@ namespace Image_Stitcher
                     txt_info.AppendText(Environment.NewLine);
 
                     // Show type of image in Info Textbox
-                    string path = System.AppDomain.CurrentDomain.BaseDirectory + "\\get_image_type.py" + " \"{0}\" ";
-                    run_cmd("C:\\Program Files\\Python39\\python.exe", string.Format(path, txt_path.Text));
+                    string imageType = GetImageType(images[0]);
+                    txt_info.AppendText("Image type: " + imageType + ".");
                 }
             }
-
         }
 
-        private void select_zoom_ValueChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
+        private string GetImageType(string imagePath)
+        {
+            using (FileStream stream = new FileStream(imagePath, FileMode.Open, FileAccess.Read))
+            {
+                using (BinaryReader reader = new BinaryReader(stream))
+                {
+                    try
+                    {
+                        byte[] buffer = reader.ReadBytes(4);
+                        if (buffer.Length >= 4 && buffer[0] == 0xFF && buffer[1] == 0xD8 && buffer[2] == 0xFF && buffer[3] == 0xE0)
+                            return "JPEG";
+                        if (buffer.Length >= 4 && buffer[0] == 0x89 && buffer[1] == 0x50 && buffer[2] == 0x4E && buffer[3] == 0x47)
+                            return "PNG";
+                        if (buffer.Length >= 4 && buffer[0] == 0x49 && buffer[1] == 0x49 && buffer[2] == 0x2A && buffer[3] == 0x00)
+                            return "TIFF";
+                        if (buffer.Length >= 4 && buffer[0] == 0x42 && buffer[1] == 0x4D)
+                            return "BMP";
+                    }
+                    catch (Exception)
+                    {
+                        return "Unknown";
+                    }
+                }
+            }
+            return "Unknown";
+        }
+    
+
+
+    private void select_zoom_ValueChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
         {
             TransformGroup transformGroup = (TransformGroup)main_image.RenderTransform;
             ScaleTransform transform = (ScaleTransform)transformGroup.Children[0];
@@ -308,13 +298,13 @@ namespace Image_Stitcher
 
         public static string StitchImages(string folderPath, string outputPath, string outputFileName)
         {
-            // Đọc danh sách các tệp tin hình ảnh từ thư mục
+            // Load image from path
             string[] imageFiles = Directory.GetFiles(folderPath, "*.jpg");
 
-            // Tạo một mảng các đối tượng Mat để lưu trữ các hình ảnh
+            // Create array mat
             Mat[] images = new Mat[imageFiles.Length];
 
-            // Đọc các hình ảnh vào mảng
+            // Input image to array
             Parallel.For(0, imageFiles.Length, i =>
             {
                 images[i] = new Mat(imageFiles[i], ImreadModes.Color);
@@ -322,13 +312,13 @@ namespace Image_Stitcher
 
             VectorOfMat vectorOfImages = new VectorOfMat(images);
 
-            // Tạo đối tượng để thực hiện stitching
+            // Create stitching
             Stitcher stitcher = new Stitcher();
 
-            // Tạo đối tượng để lưu trữ kết quả stitching
+            // Create panorama
             Mat panorama = new Mat();
 
-            // Thực hiện stitching
+            // Stitching
             Stitcher.Status status = stitcher.Stitch(vectorOfImages, panorama);
 
             if (status == Stitcher.Status.Ok)
@@ -347,30 +337,30 @@ namespace Image_Stitcher
                 // Lưu kết quả stitching ra file
                 string outputFilePath = System.IO.Path.Combine(outputPath, outputFileName);
                 CvInvoke.Imwrite(outputFilePath + ".jpg", panorama);
-                return "Stitching hoàn thành! Kết quả được lưu tại: " + outputPath;
+                return "Stitching completed! Save to: " + outputPath;
             }
             else
             {
-                return "Stitching thất bại!";
+                return "Stitching fail!";
             }
         }
 
 
         public static int[] ComputeImageHistogram(string imagePath)
         {
-            // Đọc hình ảnh và chuyển sang ảnh xám
+            // Convert to gray
             Mat image = new Mat(imagePath, Emgu.CV.CvEnum.ImreadModes.Grayscale);
 
-            // Tạo một mảng để lưu giữ histogram
+            // Create arry mat[] histogram
             Mat hist = new Mat();
 
-            // Tính toán histogram
+            // Calculate histogram
             float[] ranges = { 0.0f, 256.0f };
             int[] channel = { 0 };
             int[] histSize = { 256 };
             CvInvoke.CalcHist(new VectorOfMat(new Mat[] { image }), channel, null, hist, histSize, ranges, false);
 
-            // Chuyển đổi Mat sang mảng một chiều
+            // Convert mat
             Image<Gray, float> histImage = hist.ToImage<Gray, float>();
             float[,,] histData = histImage.Data;
             int[] histogram = new int[256];
@@ -436,7 +426,7 @@ namespace Image_Stitcher
         {
             SIFT siftDetector = new SIFT();
 
-            // Lấy danh sách đường dẫn đến tất cả các tệp hình ảnh trong thư mục.
+            // Load images
             string[] imagePaths = Directory.GetFiles(inputPath, "*.*", SearchOption.TopDirectoryOnly);
 
             Mat modelImage = CvInvoke.Imread(imagePaths[0], Emgu.CV.CvEnum.ImreadModes.Grayscale);
@@ -599,7 +589,7 @@ namespace Image_Stitcher
             
             if (string.IsNullOrEmpty(img_path))
             {
-                return; // Chưa có hình ảnh để xử lý
+                return; 
             }
 
             // Get the new values for min_h and max_h from the `IntegerUpDown` controls

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UOmMuPRHIYjdt+qWGstIaxDRHLK1BZu2OpICyng0v/9sWjhUAVNlQTAFt15/l3/di/Q5Dozqu7cUV6cnzcTuNQ==",
+  "dgSpecHash": "3fr3LAHv/hcQoAQuPAikgTvoD2BL8wUOT3TyYS0ZG6pP7s+x0pb8bYuXw1U18zyiRYa+fv7W29bFywHAHM+7bA==",
   "success": true,
-  "projectFilePath": "D:\\Working Space\\Visual Studio\\Stitching_Images\\Image_Stitcher\\Image_Stitcher.csproj",
+  "projectFilePath": "D:\\Working Space\\Visual Studio\\WholeBoard_Project_DuongAnhTuan\\Stitching_Images\\Image_Stitcher\\Image_Stitcher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\dotnetprojects.wpftoolkit.datavisualization\\6.1.94\\dotnetprojects.wpftoolkit.datavisualization.6.1.94.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\emgu.cv\\4.7.0.5276\\emgu.cv.4.7.0.5276.nupkg.sha512",
